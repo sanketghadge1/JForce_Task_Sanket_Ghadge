@@ -116,16 +116,3 @@ Execute the procedures using the sample `CALL` statements.
 * Aggregate Functions
 * Conditional Logic
 
-## Files
-
-```text
-employee-payroll/
-│
-├── database.sql
-├── procedures.sql
-└── README.md
-```
-
-## Author
-
-Sanket Ghadge
